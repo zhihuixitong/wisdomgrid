@@ -1,7 +1,7 @@
 # wisdomgrid
 智慧方工作室
 
-![Uploading ZH500.png…]()
+
 
 官网：www.wisdomgrid.cn
 
